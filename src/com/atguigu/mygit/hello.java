@@ -8,5 +8,6 @@ public class hello {
 		System.out.println("service update01");
 		System.out.println("local update02");
 		System.out.println("service update02");
+		System.out.println("local update02---");
 	}
 }
