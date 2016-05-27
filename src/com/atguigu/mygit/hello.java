@@ -5,5 +5,6 @@ public class hello {
 		System.out.println("helloworld");
 		System.out.println("service hello");
 		System.out.println("local update");
+		System.out.println("service update01");
 	}
 }
