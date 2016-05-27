@@ -7,5 +7,6 @@ public class hello {
 		System.out.println("local update");
 		System.out.println("service update01");
 		System.out.println("local update02");
+		System.out.println("service update02");
 	}
 }
