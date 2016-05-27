@@ -10,5 +10,6 @@ public class hello {
 		System.out.println("service update02");
 		System.out.println("local update02---");
 		System.out.println("service update03---");
+		String str01="local";
 	}
 }
